@@ -1,3 +1,6 @@
 Este repositorio contiene plantillas de archivos CherryTree que pueden ayudar en diferentes tipos de proyectos.
 
 This repository contains CherryTree file templates that can help in different types of projects.
+
+PlantillaRecoleccionInformacion.ctb - Plantilla orientada a organizar información que vamos recopilandi de un objetivo.
+HTB_template.ctb - Plantilla para documentar el paso a paso de mñaquians estilo HTB, OSCP, etc.
